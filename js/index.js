@@ -136,7 +136,6 @@ async function searchMovie(term) {
 }
 function display()
 {
-// let imgPath = 'https://image.tmdb.org/t/p/w500';
 let term = '';
     for(let [key,value] of movies)
     {
